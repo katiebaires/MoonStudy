@@ -1,0 +1,8 @@
+The mean of radii is: 65.16
+
+The highest density value is: 121.30
+
+The moon closest to the mean is: Adrastea 68.90 14.20 550391.60
+
+The moons below the mean value of radii are: Phobus 11.30 1.80 3.70 Deimos 6.20 1.40 23.40 Aitne 33.60 33.30 227894.90 Ananke 26.80 68.10 143323.50 Arche 47.40 38.20 449655.10 
+
